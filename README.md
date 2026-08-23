@@ -61,7 +61,7 @@ cd dns-switcher
 Install:
 
 ```bash
-./install.sh
+bash ./install.sh
 ```
 
 The installer places:
