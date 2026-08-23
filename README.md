@@ -54,7 +54,7 @@ active
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dns-switcher.git
+git clone https://github.com/Epockis/KDE_DNS_Switch.git
 cd dns-switcher
 ```
 
